@@ -25,5 +25,9 @@ public class listNode {
 		destination=d;
 		next=null;
 	}
+
+	public String printNode() {
+		return ("type: "+type+", arriveTime: "+arriveTime);
+	}
 	
 }

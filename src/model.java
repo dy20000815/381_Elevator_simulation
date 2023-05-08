@@ -29,7 +29,7 @@ public class model {
 		numberOfCustomers=n;
 		clock=0.0;
 		avgTime= new double[11][11];
-		counter= new int[11][11];
+		counter= new int[12][12];
 		futureArrive=new linkedList();
 		waiting=new linkedList();
 		elevators = new elevator[6];
@@ -106,7 +106,7 @@ public class model {
 		if(e!=6) {
 			elevators[e].dest=curr.location;
 			debug.write(clock+": Customer "+curr.cID+" has pressed button on "+curr.location+ " floor.\n");
-			listNode n=new listNode(2,e,curr.location,clock);
+			listNode n=new listNode(2,e,curr.location,clock+0.5);
 			futureArrive.insert(n);
 		}else {
 			debug.write(clock+": Customer "+curr.cID+" has pressed button on "+curr.location+ " floor, placed in waiting list.\n");
@@ -147,6 +147,7 @@ public class model {
 			listNode n=new listNode(3,curr.eID,curr.direction,clock+1.0/6);
 			futureArrive.insert(n);
 		}else {
+			debug.write(clock+": No Customer enters elevator "+curr.eID+ " .\n");
 			listNode n=new listNode(4,curr.eID,curr.direction,clock+0.5);
 			futureArrive.insert(n);
 		}
@@ -190,6 +191,8 @@ public class model {
 		double t=clock-elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.arriveTime;
 		avgTime[i][j]+=t;
 		counter[i][j]++;
+		counter[i][11]++;
+		counter[11][j]++;
 		if(elevators[curr.eID].location!=1) {
 			debug.write(clock+": Customer "+elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.cID+" has leaved elevator "+curr.eID+" to "+elevators[curr.eID].location+ " floor.\n");
 			listNode ncust=new listNode(1,elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.cID,elevators[curr.eID].location,clock+getRandomMu(),getRandomFloor(elevators[curr.eID].location));
@@ -241,7 +244,25 @@ public class model {
 					dothing5(curr);
 				}
 			}printEX();
+			if(futureArrive.head.next!=null) {
+				debug.write("\tNext Arrival: "+futureArrive.head.next.printNode()+"\n");
+			}else {
+				debug.write("\tNext Arrival: Empty\n");
+			}
+			printDelay();
 		}printOUT();
+	}
+
+
+
+	private void printDelay() throws IOException {
+		listNode curr=waiting.head;
+		debug.write("\tDelay List: ");
+		while(curr.next!=null) {
+			debug.write(curr.next.printNode()+" -> ");
+			curr=curr.next;
+		}
+		debug.write("End\n");
 	}
 
 
@@ -258,19 +279,23 @@ public class model {
 
 	private void printOUT() throws IOException {
 		output.write("Avg Time: \n");
-		output.write("0|\t1|\t\t2|\t\t3|\t\t4|\t\t5|\t\t6|\t\t7|\t\t8|\t\t9|\t\t10| \n");
+		output.write("0--|---1--|---2--|---3--|---4--|---5--|---6--|---7--|---8--|---9--|---10--| \n");
 		for(int i=1; i<11;i++) {
-			output.write(i+":\t");
+			output.write(i+": | ");
 			for(int j=1;j<11;j++) {
 				double v=Math.round(avgTime[i][j]/counter[i][j]);
-				output.write(v+"|\t");
+				output.write(v+" | ");
 			}output.write("\n");
 		}output.write("====================================================================\n");
-		output.write("Counter: \n");
-		output.write("0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t10 \n");
-		for(int i=1; i<11;i++) {
-			output.write(i+":\t");
-			for(int j=1;j<11;j++) {
+		output.write("Customer number: \n");
+		output.write("0\t\t1\t2\t3\t4\t5\t6\t7\t8\t9\t10\tTotal \n");
+		for(int i=1; i<12;i++) {
+			if(i==11) {
+				output.write("Total: ");
+			}else {
+				output.write(i+":\t\t");
+			}
+			for(int j=1;j<12;j++) {
 				output.write(counter[i][j]+"\t");
 			}output.write("\n");
 		}
