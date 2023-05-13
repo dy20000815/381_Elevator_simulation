@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.util.Random;
 
 public class model {
+	int debugCounter=0;
 	int ct;
 	BufferedWriter debug;
 	BufferedWriter output;
@@ -105,11 +106,14 @@ public class model {
 		}
 		if(e!=6) {
 			elevators[e].dest=curr.location;
-			debug.write(clock+": Customer "+curr.cID+" has pressed button on "+curr.location+ " floor.\n");
+			if(debugCounter<40) {
+				debug.write(clock+": Customer "+curr.cID+" has pressed button on "+curr.location+ " floor.\n");
+				debugCounter++;
+			}
 			listNode n=new listNode(2,e,curr.location,clock+0.5);
 			futureArrive.insert(n);
 		}else {
-			debug.write(clock+": Customer "+curr.cID+" has pressed button on "+curr.location+ " floor, placed in waiting list.\n");
+			if(debugCounter<40) debug.write(clock+": Customer "+curr.cID+" has pressed button on "+curr.location+ " floor, placed in waiting list.\n");
 			waiting.add(curr);
 		}
 	}
@@ -118,16 +122,16 @@ public class model {
 	private void dothing2(listNode curr) throws IOException {//move
 		if(elevators[curr.eID].location<curr.destination) {
 			elevators[curr.eID].location++;
-			debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
+			if(debugCounter<40) debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
 			listNode n=new listNode(2,curr.eID,curr.destination,clock+0.5);
 			futureArrive.insert(n);
 		}else if(elevators[curr.eID].location>curr.destination) {
 			elevators[curr.eID].location--;
-			debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
+			if(debugCounter<40) debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
 			listNode n=new listNode(2,curr.eID,curr.destination,clock+0.5);
 			futureArrive.insert(n);
 		}else {
-			debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
+			if(debugCounter<40) debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
 			listNode n=new listNode(3,curr.eID,curr.destination,clock+1.0/6);
 			futureArrive.insert(n);
 		}
@@ -136,18 +140,18 @@ public class model {
 	private void dothing3(listNode curr) throws IOException {//aboard
 		if(elevators[curr.eID].direction==1&&floors[elevators[curr.eID].location].up.head.next!=null) {
 			elevators[curr.eID].aboarding(floors[elevators[curr.eID].location].up.head.next);
-			debug.write(clock+": Customer "+floors[elevators[curr.eID].location].up.head.next.cID+" has entered elevator "+curr.eID+ " .\n");
+			if(debugCounter<40) debug.write(clock+": Customer "+floors[elevators[curr.eID].location].up.head.next.cID+" has entered elevator "+curr.eID+ " .\n");
 			floors[elevators[curr.eID].location].up.removehead();
 			listNode n=new listNode(3,curr.eID,curr.direction,clock+1.0/6);
 			futureArrive.insert(n);
 		}else if(elevators[curr.eID].direction==-1&&floors[elevators[curr.eID].location].down.head.next!=null) {
 			elevators[curr.eID].aboarding(floors[elevators[curr.eID].location].down.head.next);
-			debug.write(clock+": Customer "+floors[elevators[curr.eID].location].down.head.next.cID+" has entered elevator "+curr.eID+ " .\n");
+			if(debugCounter<40) debug.write(clock+": Customer "+floors[elevators[curr.eID].location].down.head.next.cID+" has entered elevator "+curr.eID+ " .\n");
 			floors[elevators[curr.eID].location].down.removehead();
 			listNode n=new listNode(3,curr.eID,curr.direction,clock+1.0/6);
 			futureArrive.insert(n);
 		}else {
-			debug.write(clock+": No Customer enters elevator "+curr.eID+ " .\n");
+			if(debugCounter<40) debug.write(clock+": No Customer enters elevator "+curr.eID+ " .\n");
 			listNode n=new listNode(4,curr.eID,curr.direction,clock+0.5);
 			futureArrive.insert(n);
 		}
@@ -156,7 +160,7 @@ public class model {
 	private void dothing4(listNode curr) throws IOException {//recursion disembark and move
 		if(elevators[curr.eID].direction==1&&elevators[curr.eID].dest!=elevators[curr.eID].location) {
 			elevators[curr.eID].location++;
-			debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
+			if(debugCounter<40) debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
 			if(elevators[curr.eID].aboard[elevators[curr.eID].location].length>0){
 				listNode n=new listNode(5,curr.eID,curr.direction,clock+1.0/6);
 				futureArrive.insert(n);
@@ -166,7 +170,7 @@ public class model {
 			}
 		}else if(elevators[curr.eID].direction==-1&&elevators[curr.eID].dest!=elevators[curr.eID].location) {
 			elevators[curr.eID].location--;		
-			debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
+			if(debugCounter<40) debug.write(clock+": Elevator "+curr.eID+" has reached "+elevators[curr.eID].location+ " floor.\n");
 			if(elevators[curr.eID].aboard[elevators[curr.eID].location].length>0){
 				listNode n=new listNode(5,curr.eID,curr.direction,clock+1.0/6);
 				futureArrive.insert(n);
@@ -179,7 +183,7 @@ public class model {
 				listNode n=new listNode(5,curr.eID,curr.direction,clock+1.0/6);
 				futureArrive.insert(n);
 			}else {
-				debug.write(clock+": Elevator "+curr.eID+" has stopped.\n");
+				if(debugCounter<40) debug.write(clock+": Elevator "+curr.eID+" has stopped.\n");
 				elevators[curr.eID].direction=0;
 			}
 		}
@@ -194,12 +198,12 @@ public class model {
 		counter[i][11]++;
 		counter[11][j]++;
 		if(elevators[curr.eID].location!=1) {
-			debug.write(clock+": Customer "+elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.cID+" has leaved elevator "+curr.eID+" to "+elevators[curr.eID].location+ " floor.\n");
+			if(debugCounter<40) debug.write(clock+": Customer "+elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.cID+" has leaved elevator "+curr.eID+" to "+elevators[curr.eID].location+ " floor.\n");
 			listNode ncust=new listNode(1,elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.cID,elevators[curr.eID].location,clock+getRandomMu(),getRandomFloor(elevators[curr.eID].location));
 			elevators[curr.eID].aboard[elevators[curr.eID].location].removehead();
 			futureArrive.insert(ncust);
 		}else { // assume customer who reach 1st floor will leave building
-			debug.write(clock+": Customer "+elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.cID+" has leaved elevator "+curr.eID+" to "+elevators[curr.eID].location+ " floor.\n");
+			if(debugCounter<40) debug.write(clock+": Customer "+elevators[curr.eID].aboard[elevators[curr.eID].location].head.next.cID+" has leaved elevator "+curr.eID+" to "+elevators[curr.eID].location+ " floor.\n");
 			elevators[curr.eID].aboard[elevators[curr.eID].location].removehead();
 		}
 		if(elevators[curr.eID].aboard[elevators[curr.eID].location].length>0){
@@ -245,9 +249,9 @@ public class model {
 				}
 			}printEX();
 			if(futureArrive.head.next!=null) {
-				debug.write("\tNext Arrival: "+futureArrive.head.next.printNode()+"\n");
+				if(debugCounter<40) debug.write("\tNext Arrival: "+futureArrive.head.next.printNode()+"\n");
 			}else {
-				debug.write("\tNext Arrival: Empty\n");
+				if(debugCounter<40) debug.write("\tNext Arrival: Empty\n");
 			}
 			printDelay();
 		}printOUT();
@@ -257,12 +261,12 @@ public class model {
 
 	private void printDelay() throws IOException {
 		listNode curr=waiting.head;
-		debug.write("\tDelay List: ");
+		if(debugCounter<40) debug.write("\tDelay List: ");
 		while(curr.next!=null) {
-			debug.write(curr.next.printNode()+" -> ");
+			if(debugCounter<40) debug.write(curr.next.printNode()+" -> ");
 			curr=curr.next;
 		}
-		debug.write("End\n");
+		if(debugCounter<40) debug.write("End\n");
 	}
 
 
@@ -291,7 +295,7 @@ public class model {
 		output.write("0\t\t1\t2\t3\t4\t5\t6\t7\t8\t9\t10\tTotal \n");
 		for(int i=1; i<12;i++) {
 			if(i==11) {
-				output.write("Total: ");
+				output.write("Total:\t");
 			}else {
 				output.write(i+":\t\t");
 			}

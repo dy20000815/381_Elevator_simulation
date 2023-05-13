@@ -1,4 +1,4 @@
-1: Clock: 1.367552551229392
+1: Clock: 0.9175410809479991
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -26,7 +26,7 @@ Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-2: Clock: 1.867552551229392
+2: Clock: 1.4175410809479991
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -54,7 +54,7 @@ Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-3: Clock: 2.0342192178960588
+3: Clock: 1.5842077476146659
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -82,7 +82,7 @@ Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-4: Clock: 2.2008858845627253
+4: Clock: 1.7508744142813326
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -110,7 +110,7 @@ Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-5: Clock: 2.7008858845627253
+5: Clock: 2.2508744142813324
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -138,7 +138,7 @@ Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-6: Clock: 3.2008858845627253
+6: Clock: 2.7508744142813324
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -166,287 +166,7 @@ Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-7: Clock: 3.367552551229392
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-8: Clock: 3.867552551229392
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-9: Clock: 3.9930407230586242
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 1 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-10: Clock: 4.169574865796517
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 1 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-11: Clock: 4.493040723058624
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 1 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-12: Clock: 4.659707389725291
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 1 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-13: Clock: 4.669574865796517
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 1 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-14: Clock: 4.826374056391958
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 1 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-15: Clock: 4.836241532463184
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 1 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-16: Clock: 5.002908199129851
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	|*|	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 1 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-17: Clock: 5.326374056391958
+7: Clock: 3.2508744142813324
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -469,12 +189,292 @@ Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
 Elevator 1: 1 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+8: Clock: 3.417541080947999
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+9: Clock: 3.4475452006105662
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 1 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+10: Clock: 3.917541080947999
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 1 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+11: Clock: 3.9475452006105662
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 1 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+12: Clock: 4.114211867277233
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
 Elevator 2: 1 customers.
 Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-18: Clock: 5.502908199129851
+13: Clock: 4.146950478672618
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 1 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+14: Clock: 4.2808785339439
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+15: Clock: 4.447545200610567
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+16: Clock: 4.646950478672618
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+17: Clock: 4.813617145339285
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	|*|	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+18: Clock: 4.947545200610567
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
@@ -496,21 +496,21 @@ Floor 4: 0 customers.
 Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
-Elevator 1: 1 customers.
-Elevator 2: 1 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
 Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-19: Clock: 5.826374056391958
+19: Clock: 5.313617145339285
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
 8:	o	o	o	o	o	
 7:	o	o	o	o	o	
 6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
 3:	o	o	o	o	o	
 2:	o	|*|	o	o	o	
 1:	o	o	|*|	|*|	|*|	
@@ -524,21 +524,21 @@ Floor 4: 0 customers.
 Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
-Elevator 1: 1 customers.
-Elevator 2: 1 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
 Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-20: Clock: 6.002908199129851
+20: Clock: 5.447545200610567
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
 8:	o	o	o	o	o	
 7:	o	o	o	o	o	
 6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
 3:	o	|*|	o	o	o	
 2:	o	o	o	o	o	
 1:	o	o	|*|	|*|	|*|	
@@ -552,24 +552,2096 @@ Floor 4: 0 customers.
 Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+21: Clock: 5.947545200610567
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	|*|	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+22: Clock: 6.105088481825636
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	|*|	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 1 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+23: Clock: 6.447545200610567
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	|*|	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 1 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+24: Clock: 6.605088481825636
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	|*|	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 1 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+25: Clock: 6.771755148492303
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	|*|	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+26: Clock: 6.93842181515897
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	|*|	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+27: Clock: 6.947545200610567
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	|*|	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+28: Clock: 7.43842181515897
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	|*|	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+29: Clock: 7.447545200610567
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	|*|	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 2 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+30: Clock: 7.614211867277234
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	|*|	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
 Elevator 1: 1 customers.
 Elevator 2: 1 customers.
 Elevator 3: 0 customers.
 Elevator 4: 0 customers.
 Elevator 5: 0 customers.
 ====================================================================
-21: Clock: 6.326374056391958
+31: Clock: 7.93842181515897
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
 8:	o	o	o	o	o	
+7:	o	|*|	o	o	o	
+6:	|*|	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+32: Clock: 8.114211867277234
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	|*|	o	o	o	
 7:	o	o	o	o	o	
 6:	|*|	o	o	o	o	
 5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+33: Clock: 8.261632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	|*|	o	o	o	
+7:	o	o	o	o	o	
+6:	|*|	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+34: Clock: 8.43842181515897
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	|*|	o	o	o	
+7:	|*|	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+35: Clock: 8.614211867277234
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	|*|	o	o	o	
+8:	o	o	o	o	o	
+7:	|*|	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	|*|	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+36: Clock: 8.761632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	|*|	o	o	o	
+8:	o	o	o	o	o	
+7:	|*|	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	|*|	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+37: Clock: 8.93842181515897
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	|*|	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	|*|	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+38: Clock: 9.105088481825636
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	|*|	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	|*|	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+39: Clock: 9.114211867277234
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	|*|	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+40: Clock: 9.261632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	|*|	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+41: Clock: 9.2808785339439
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	|*|	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+42: Clock: 9.605088481825636
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	|*|	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+43: Clock: 9.761632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	|*|	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+44: Clock: 9.7808785339439
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	|*|	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+45: Clock: 9.888537547221956
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	|*|	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+46: Clock: 10.261632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	|*|	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+47: Clock: 10.388537547221956
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	|*|	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+48: Clock: 10.555204213888622
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	|*|	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+49: Clock: 10.721870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	|*|	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+50: Clock: 10.761632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	|*|	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+51: Clock: 11.170453405333546
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	|*|	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	|*|	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 1 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+52: Clock: 11.221870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	|*|	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	|*|	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 1 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+53: Clock: 11.261632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	|*|	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 1 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+54: Clock: 11.670453405333546
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	|*|	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 1 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+55: Clock: 11.721870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	|*|	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 1 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+56: Clock: 11.761632601943429
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	|*|	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 1 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+57: Clock: 11.837120072000213
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	|*|	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 1 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+58: Clock: 11.928299268610095
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	|*|	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+59: Clock: 12.003786738666879
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	|*|	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+60: Clock: 12.094965935276761
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	|*|	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+61: Clock: 12.221870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	|*|	o	o	o	o	
+7:	o	|*|	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+62: Clock: 12.503786738666879
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	|*|	|*|	|*|	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+63: Clock: 12.594965935276761
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	|*|	o	o	
+7:	|*|	|*|	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+64: Clock: 12.721870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	|*|	o	o	
+7:	|*|	o	o	o	o	
+6:	o	|*|	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+65: Clock: 13.003786738666879
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	o	o	o	
+8:	o	o	|*|	o	o	
+7:	o	o	o	o	o	
+6:	|*|	|*|	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+66: Clock: 13.094965935276761
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	|*|	|*|	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+67: Clock: 13.221870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	|*|	o	o	o	o	
+5:	o	|*|	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+68: Clock: 13.503786738666879
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	|*|	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+69: Clock: 13.594965935276761
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	|*|	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+70: Clock: 13.670453405333545
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	|*|	o	o	o	
+4:	o	o	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+71: Clock: 13.721870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	|*|	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+72: Clock: 13.761632601943427
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	|*|	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 0 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+73: Clock: 14.027898234207406
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	|*|	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+74: Clock: 14.170453405333545
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	|*|	o	o	o	
+3:	o	o	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+75: Clock: 14.221870880555288
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
 4:	o	o	o	o	o	
 3:	o	|*|	o	o	o	
 2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+76: Clock: 14.261632601943427
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 1 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+77: Clock: 14.388537547221954
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	|*|	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+78: Clock: 14.527898234207406
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	|*|	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+79: Clock: 14.623995796215747
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	|*|	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+80: Clock: 14.863006098936241
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	|*|	o	
+1:	o	o	o	o	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+81: Clock: 14.888537547221954
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	|*|	o	
+1:	o	o	o	o	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+82: Clock: 15.027898234207406
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	|*|	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+83: Clock: 15.123995796215747
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	|*|	o	|*|	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+84: Clock: 15.363006098936241
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	|*|	o	|*|	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+85: Clock: 15.527898234207406
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	|*|	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 1 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 0 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+86: Clock: 15.529672765602907
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	|*|	o	o	|*|	o	
+3:	o	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+87: Clock: 15.623995796215747
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	|*|	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+88: Clock: 15.696339432269573
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	o	o	
+4:	o	o	o	|*|	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+89: Clock: 16.027898234207406
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+90: Clock: 16.123995796215745
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	|*|	o	o	
+9:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+91: Clock: 16.196339432269575
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 1 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+92: Clock: 16.290662462882413
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+93: Clock: 16.45732912954908
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+94: Clock: 16.527898234207406
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
+Floor 9: 0 customers.
+Floor 8: 0 customers.
+Floor 7: 0 customers.
+Floor 6: 0 customers.
+Floor 5: 1 customers.
+Floor 4: 0 customers.
+Floor 3: 0 customers.
+Floor 2: 0 customers.
+Floor 1: 0 customers.
+Elevator 1: 1 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 0 customers.
+Elevator 5: 0 customers.
+====================================================================
+95: Clock: 16.694564900874074
+0|	e1|	e2|	e3|	e4|	e5| 
+10:	o	o	o	o	o	
+9:	o	o	|*|	o	o	
+8:	o	o	o	o	o	
+7:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
+2:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
 Floor 10: 0 customers.
 Floor 9: 0 customers.
 Floor 8: 0 customers.
@@ -581,23 +2653,23 @@ Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
 Elevator 1: 1 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 1 customers.
 Elevator 5: 0 customers.
 ====================================================================
-22: Clock: 6.502908199129851
+96: Clock: 16.696339432269575
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
-8:	o	o	o	o	o	
+8:	o	o	|*|	o	o	
 7:	o	o	o	o	o	
-6:	|*|	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	|*|	o	o	o	
-3:	o	o	o	o	o	
+6:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
 2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
+1:	o	o	o	o	|*|	
 Floor 10: 0 customers.
 Floor 9: 0 customers.
 Floor 8: 0 customers.
@@ -609,23 +2681,23 @@ Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
 Elevator 1: 1 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
+Elevator 2: 0 customers.
+Elevator 3: 1 customers.
+Elevator 4: 1 customers.
 Elevator 5: 0 customers.
 ====================================================================
-23: Clock: 6.826374056391958
+97: Clock: 16.86123156754074
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
+8:	o	o	|*|	o	o	
+7:	o	o	o	o	o	
 6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	|*|	o	o	o	
-3:	o	o	o	o	o	
+5:	o	o	o	|*|	o	
+4:	o	o	o	o	o	
+3:	|*|	|*|	o	o	o	
 2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
+1:	o	o	o	o	|*|	
 Floor 10: 0 customers.
 Floor 9: 0 customers.
 Floor 8: 0 customers.
@@ -637,1141 +2709,21 @@ Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
 Elevator 1: 1 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-24: Clock: 6.993040723058625
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	|*|	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-25: Clock: 7.002908199129851
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-26: Clock: 7.006397128490828
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-27: Clock: 7.0945151423616695
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-28: Clock: 7.169574865796518
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
 Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-29: Clock: 7.493040723058625
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-30: Clock: 7.506397128490828
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	|*|	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-31: Clock: 7.5945151423616695
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	|*|	o	
-1:	o	o	|*|	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-32: Clock: 7.669574865796518
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	|*|	o	
-1:	o	o	|*|	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-33: Clock: 7.673063795157495
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	|*|	o	
-1:	o	o	|*|	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-34: Clock: 7.839730461824162
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	|*|	o	
-1:	o	o	|*|	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-35: Clock: 8.094515142361669
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	|*|	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-36: Clock: 8.339730461824162
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	|*|	o	
-2:	o	o	|*|	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-37: Clock: 8.594515142361669
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	|*|	o	
-3:	o	o	o	o	o	
-2:	o	o	|*|	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-38: Clock: 8.839730461824162
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	|*|	o	
-3:	o	o	|*|	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-39: Clock: 9.094515142361669
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	|*|	o	
-4:	o	o	o	o	o	
-3:	o	o	|*|	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-40: Clock: 9.339730461824162
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	|*|	o	
-4:	o	o	|*|	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-41: Clock: 9.44214314282873
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	|*|	o	|*|	o	
-4:	o	o	|*|	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 1 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-42: Clock: 9.594515142361669
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	|*|	o	o	o	
-4:	o	o	|*|	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 1 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-43: Clock: 9.839730461824162
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	|*|	|*|	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 1 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-44: Clock: 9.94214314282873
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	|*|	|*|	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 1 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-45: Clock: 10.094515142361669
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	|*|	o	
-6:	o	o	o	o	o	
-5:	o	|*|	|*|	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 1 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-46: Clock: 10.108809809495396
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	|*|	o	
-6:	o	o	o	o	o	
-5:	o	|*|	|*|	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-47: Clock: 10.275476476162062
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	|*|	o	
-6:	o	o	o	o	o	
-5:	o	|*|	|*|	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-48: Clock: 10.339730461824162
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	|*|	o	
-6:	o	o	|*|	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-49: Clock: 10.594515142361669
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	|*|	o	
-6:	o	o	|*|	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 1 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 0 customers.
-====================================================================
-50: Clock: 10.761181809028335
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	|*|	o	
-6:	o	o	|*|	o	o	
-5:	o	|*|	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
 Elevator 3: 1 customers.
 Elevator 4: 1 customers.
 Elevator 5: 0 customers.
 ====================================================================
-51: Clock: 10.775476476162062
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	o	|*|	o	
-6:	o	|*|	|*|	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-52: Clock: 10.839730461824162
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	|*|	|*|	o	
-6:	o	|*|	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-53: Clock: 10.927848475695
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	|*|	|*|	o	
-6:	o	|*|	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-54: Clock: 10.958836667728207
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	o	|*|	|*|	o	
-6:	o	|*|	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-55: Clock: 11.275476476162062
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	|*|	|*|	|*|	|*|	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-56: Clock: 11.339730461824162
+98: Clock: 16.95732912954908
 0|	e1|	e2|	e3|	e4|	e5| 
 10:	o	o	o	o	o	
 9:	o	o	o	o	o	
 8:	o	o	|*|	o	o	
-7:	|*|	|*|	o	|*|	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-57: Clock: 11.427848475695
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	|*|	|*|	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-58: Clock: 11.458836667728207
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	|*|	|*|	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 1 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-59: Clock: 11.506397128490828
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	|*|	|*|	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 0 customers.
-====================================================================
-60: Clock: 11.625503334394873
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	|*|	|*|	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 1 customers.
-====================================================================
-61: Clock: 11.650107856158408
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	|*|	|*|	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 1 customers.
-====================================================================
-62: Clock: 11.775476476162062
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	|*|	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 1 customers.
-====================================================================
-63: Clock: 11.792170001061539
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	|*|	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	|*|	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-64: Clock: 11.927848475695
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	|*|	o	o	
-7:	|*|	o	o	o	o	
+7:	o	o	o	o	o	
 6:	o	o	o	o	o	
 5:	o	o	o	|*|	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
+4:	|*|	o	o	o	o	
+3:	o	|*|	o	o	o	
 2:	o	o	o	o	o	
 1:	o	o	o	o	|*|	
 Floor 10: 0 customers.
@@ -1784,304 +2736,24 @@ Floor 4: 0 customers.
 Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-65: Clock: 11.958836667728205
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	|*|	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	|*|	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-66: Clock: 12.006397128490828
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	|*|	o	o	
-7:	|*|	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	|*|	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-67: Clock: 12.150107856158408
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	|*|	o	o	
-7:	o	o	o	o	o	
-6:	|*|	o	o	o	o	
-5:	o	o	o	|*|	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-68: Clock: 12.275476476162062
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	|*|	o	o	o	o	
-5:	o	o	o	|*|	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-69: Clock: 12.427848475695
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	|*|	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	|*|	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	|*|	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-70: Clock: 12.458836667728205
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	|*|	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	|*|	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	|*|	
-1:	o	o	o	o	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-71: Clock: 12.650107856158408
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	o	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	|*|	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	|*|	
-1:	o	o	o	o	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-72: Clock: 12.775476476162062
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	|*|	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	|*|	
-1:	o	o	o	o	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-73: Clock: 12.927848475695
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	|*|	o	
-2:	o	o	o	o	|*|	
-1:	o	o	o	o	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 1 customers.
-Elevator 3: 0 customers.
-Elevator 4: 1 customers.
-Elevator 5: 2 customers.
-====================================================================
-74: Clock: 12.942143142828728
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	|*|	o	
-2:	o	o	o	o	|*|	
-1:	o	o	o	o	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
+Elevator 1: 1 customers.
 Elevator 2: 0 customers.
-Elevator 3: 0 customers.
+Elevator 3: 1 customers.
 Elevator 4: 1 customers.
-Elevator 5: 2 customers.
+Elevator 5: 0 customers.
 ====================================================================
-75: Clock: 12.958836667728205
+99: Clock: 17.196339432269575
 0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
+10:	o	o	o	o	o	
 9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	|*|	o	o	
 6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	|*|	|*|	
+5:	o	o	o	|*|	o	
+4:	|*|	o	o	o	o	
+3:	o	|*|	o	o	o	
 2:	o	o	o	o	o	
-1:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
 Floor 10: 0 customers.
 Floor 9: 0 customers.
 Floor 8: 0 customers.
@@ -2092,52 +2764,24 @@ Floor 4: 0 customers.
 Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
-Elevator 1: 0 customers.
+Elevator 1: 1 customers.
 Elevator 2: 0 customers.
-Elevator 3: 0 customers.
+Elevator 3: 1 customers.
 Elevator 4: 1 customers.
-Elevator 5: 2 customers.
+Elevator 5: 0 customers.
 ====================================================================
-76: Clock: 13.094515142361667
+100: Clock: 17.36123156754074
 0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
+10:	o	o	o	o	o	
 9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	|*|	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	|*|	|*|	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 2 customers.
-====================================================================
-77: Clock: 13.150107856158408
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
+8:	o	o	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	|*|	o	
 5:	o	o	o	o	o	
 4:	|*|	o	o	o	o	
-3:	o	o	o	|*|	|*|	
+3:	o	|*|	o	o	o	
 2:	o	o	o	o	o	
-1:	o	o	o	o	o	
+1:	o	o	o	o	|*|	
 Floor 10: 0 customers.
 Floor 9: 0 customers.
 Floor 8: 0 customers.
@@ -2148,25 +2792,25 @@ Floor 4: 0 customers.
 Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
-Elevator 1: 0 customers.
+Elevator 1: 1 customers.
 Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 2 customers.
+Elevator 3: 1 customers.
+Elevator 4: 1 customers.
+Elevator 5: 0 customers.
 ====================================================================
-78: Clock: 13.154283216204915
+101: Clock: 17.45732912954908
 0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
+10:	o	o	o	o	o	
 9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	|*|	o	o	o	o	
-3:	o	o	o	|*|	|*|	
+8:	o	o	o	o	o	
+7:	o	o	|*|	o	o	
+6:	o	o	o	|*|	o	
+5:	|*|	o	o	o	o	
+4:	o	o	o	o	o	
+3:	o	|*|	o	o	o	
 2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
+1:	o	o	o	o	|*|	
+Floor 10: 0 customers.
 Floor 9: 0 customers.
 Floor 8: 0 customers.
 Floor 7: 0 customers.
@@ -2176,653 +2820,9 @@ Floor 4: 0 customers.
 Floor 3: 0 customers.
 Floor 2: 0 customers.
 Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 2 customers.
-====================================================================
-79: Clock: 13.442143142828728
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	|*|	o	o	o	o	
-3:	o	o	o	|*|	|*|	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 2 customers.
-====================================================================
-80: Clock: 13.458836667728205
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	|*|	o	o	o	|*|	
-3:	o	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 2 customers.
-====================================================================
-81: Clock: 13.594515142361667
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	|*|	o	o	o	|*|	
-3:	o	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 0 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 2 customers.
-====================================================================
-82: Clock: 13.595346619248577
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	|*|	o	o	o	|*|	
-3:	o	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 2 customers.
-====================================================================
-83: Clock: 13.625503334394871
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	|*|	o	o	o	|*|	
-3:	o	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-84: Clock: 13.650107856158408
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	o	o	o	
-8:	o	o	|*|	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	|*|	
-3:	|*|	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-85: Clock: 13.654283216204915
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	|*|	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	|*|	
-3:	|*|	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 0 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-86: Clock: 14.028244527814039
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	|*|	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	|*|	
-3:	|*|	o	o	|*|	o	
-2:	o	o	o	o	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-87: Clock: 14.095346619248577
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	|*|	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	o	
-4:	o	o	o	o	|*|	
-3:	|*|	o	o	o	o	
-2:	o	o	o	|*|	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-88: Clock: 14.125503334394871
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	|*|	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	|*|	
-4:	o	o	o	o	o	
-3:	|*|	o	o	o	o	
-2:	o	o	o	|*|	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-89: Clock: 14.150107856158408
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	o	o	o	
-9:	o	o	|*|	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	|*|	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	|*|	o	o	|*|	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-90: Clock: 14.154283216204915
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	|*|	|*|	o	o	
-9:	o	o	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	|*|	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	|*|	o	o	|*|	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-91: Clock: 14.528244527814039
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	|*|	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	|*|	o	o	|*|	o	
-1:	o	o	o	o	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-92: Clock: 14.595346619248577
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	o	
-5:	o	o	o	o	|*|	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	|*|	o	o	o	o	
-1:	o	o	o	|*|	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-93: Clock: 14.625503334394871
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	|*|	o	o	o	o	
-1:	o	o	o	|*|	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-94: Clock: 14.650107856158408
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-95: Clock: 14.654283216204915
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-96: Clock: 14.735688995396126
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 1 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 0 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-97: Clock: 14.82094988287158
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
+Elevator 1: 1 customers.
 Elevator 2: 0 customers.
 Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-98: Clock: 14.987616549538247
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	|*|	o	o	o	
-8:	o	o	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-99: Clock: 15.028244527814039
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-100: Clock: 15.054989135656912
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
-====================================================================
-101: Clock: 15.095346619248577
-0|	e1|	e2|	e3|	e4|	e5| 
-10:	o	o	|*|	o	o	
-9:	o	o	o	o	o	
-8:	o	|*|	o	o	o	
-7:	o	o	o	o	o	
-6:	o	o	o	o	|*|	
-5:	o	o	o	o	o	
-4:	o	o	o	o	o	
-3:	o	o	o	o	o	
-2:	o	o	o	o	o	
-1:	|*|	o	o	|*|	o	
-Floor 10: 0 customers.
-Floor 9: 0 customers.
-Floor 8: 1 customers.
-Floor 7: 0 customers.
-Floor 6: 0 customers.
-Floor 5: 0 customers.
-Floor 4: 0 customers.
-Floor 3: 0 customers.
-Floor 2: 0 customers.
-Floor 1: 1 customers.
-Elevator 1: 0 customers.
-Elevator 2: 0 customers.
-Elevator 3: 1 customers.
-Elevator 4: 0 customers.
-Elevator 5: 1 customers.
+Elevator 4: 1 customers.
+Elevator 5: 0 customers.
 ====================================================================
